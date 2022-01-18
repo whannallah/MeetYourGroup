@@ -1,0 +1,2 @@
+# MeetYourGroup
+Welcome to MeetYourGroup - The app that allows you to create a personalized quiz game with up to 20 players! All you need to do is enter the names of your group members and some creative 'get to know you' questions for each person to answer. Then once everyone puts in their answers, MeetYourGroup will generate a multiple choice game where group members will work together to guess each others' answers!
